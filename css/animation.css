@@ -1,0 +1,255 @@
+@keyframes anim01 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c1);
+    }
+
+    100% {
+        transform: translateY(22vh);
+        background-color: var(--c2);
+    }
+}
+
+@keyframes anim02 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c1);
+    }
+
+    100% {
+        transform: translateY(44vh);
+        background-color: var(--c3);
+    }
+}
+
+@keyframes anim03 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c1);
+    }
+
+    100% {
+        transform: translateY(66vh);
+        background-color: var(--c4);
+    }
+}
+
+@keyframes anim04 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c1);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(88vh);
+        background-color: var(--c1);
+        opacity: 0;
+    }
+}
+
+@keyframes anim10 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c2);
+    }
+
+    100% {
+        transform: translateY(-22vh);
+        background-color: var(--c1);
+    }
+}
+
+@keyframes anim12 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c2);
+    }
+
+    100% {
+        transform: translateY(22vh);
+        background-color: var(--c3);
+    }
+}
+
+@keyframes anim13 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c2);
+    }
+
+    100% {
+        transform: translateY(44vh);
+        background-color: var(--c4);
+    }
+}
+
+@keyframes anim14 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c2);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(66vh);
+        background-color: var(--c2);
+        opacity: 0;
+    }
+}
+
+@keyframes anim20 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c3);
+    }
+
+    100% {
+        transform: translateY(-44vh);
+        background-color: var(--c1);
+    }
+}
+
+@keyframes anim21 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c3);
+    }
+
+    100% {
+        transform: translateY(-22vh);
+        background-color: var(--c2);
+    }
+}
+
+@keyframes anim23 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c3);
+    }
+
+    100% {
+        transform: translateY(22vh);
+        background-color: var(--c4);
+    }
+}
+
+@keyframes anim24 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c3);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(44vh);
+        background-color: var(--c3);
+        opacity: 0;
+    }
+}
+
+@keyframes anim30 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c4);
+    }
+
+    100% {
+        transform: translateY(-66vh);
+        background-color: var(--c1);
+    }
+}
+
+@keyframes anim31 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c4);
+    }
+
+    100% {
+        transform: translateY(-44vh);
+        background-color: var(--c2);
+    }
+}
+
+@keyframes anim32 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c4);
+    }
+
+    100% {
+        transform: translateY(-22vh);
+        background-color: var(--c3);
+    }
+}
+
+@keyframes anim34 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c4);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(22vh);
+        background-color: var(--c4);
+        opacity: 0;
+    }
+}
+
+@keyframes anim40 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c1);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(-88vh);
+        background-color: var(--c1);
+        opacity: 1;
+    }
+}
+
+@keyframes anim41 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c2);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(-66vh);
+        background-color: var(--c2);
+        opacity: 1;
+    }
+}
+
+@keyframes anim42 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c3);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(-44vh);
+        background-color: var(--c3);
+        opacity: 1;
+    }
+}
+
+@keyframes anim43 {
+    0% {
+        transform: translateY(0px);
+        background-color: var(--c4);
+        opacity: 0;
+    }
+
+    100% {
+        transform: translateY(-22vh);
+        background-color: var(--c4);
+        opacity: 1;
+    }
+}
