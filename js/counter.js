@@ -96,7 +96,7 @@ function readData(oData) {
 // Mets à jour les prix
 function fill(){
     for(var i = 0; i < 5; i++){
-        document.getElementById("price" + i).innerHTML = prices[i] / 100 + "€";
+        document.getElementById("price" + i).innerHTML = prices[i];
         document.getElementById("name" + i).innerHTML = names[i];
     }
 }
