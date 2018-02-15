@@ -1,0 +1,4 @@
+AuthName "Seuls les administrateurs ont accès à ce repertoire"
+AuthType Basic
+AuthUserFile ".htpasswd"
+Require valid-user
