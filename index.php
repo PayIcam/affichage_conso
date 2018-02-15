@@ -8,7 +8,7 @@
     </head>
 
     <body>
-        <form action="counter.php" method="post">
+        <form action="trader.php" method="post">
             <p>Choisissez la date de début</p>
             <input type="date" name="date" required>
             <input type="time" name="time" required>
