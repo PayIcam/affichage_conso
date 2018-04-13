@@ -3,6 +3,8 @@ session_start();
 
 include('../data/config.php');
 
+
+
 try
 {
   $bdd = new PDO('mysql:host='.$bdd_url.';dbname='.$bdd_database.';charset=utf8', $bdd_login, $bdd_password);
